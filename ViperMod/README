@@ -1,0 +1,19 @@
+* ForceMagnitude van elke engine verdubbelen
+* MyObjectBuilder_GasProperties naar 0.10
+* InventoryBagEntity - InventoryVolume - 1
+* CubeBlocks_Tools - Drills - Large
+    <SensorRadius>3</SensorRadius>
+    <SensorOffset>3</SensorOffset>
+    <CutOutRadius>3</CutOutRadius>
+    <CutOutOffset>3</CutOutOffset>
+* CubeBlocks_Tools - Drills - Small
+    <SensorRadius>2</SensorRadius>
+    <SensorOffset>1</SensorOffset>
+    <CutOutRadius>2</CutOutRadius>
+    <CutOutOffset>1</CutOutOffset>
+* CubeBlocks_Tools - OreDetector - MaximumRange
+* Change Ship Speed
+  <SmallShipMaxSpeed>250</SmallShipMaxSpeed>
+  <LargeShipMaxSpeed>250</LargeShipMaxSpeed>
+  <SmallShipMaxAngularSpeed>500</SmallShipMaxAngularSpeed>
+  <LargeShipMaxAngularSpeed>500</LargeShipMaxAngularSpeed>
