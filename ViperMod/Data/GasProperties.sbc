@@ -6,7 +6,7 @@
         <TypeId>MyObjectBuilder_GasProperties</TypeId>
         <SubtypeId>Hydrogen</SubtypeId>
       </Id>
-      <EnergyDensity>0.010</EnergyDensity>  <!-- MWh/litres -->
+      <EnergyDensity>0.0075</EnergyDensity>  <!-- MWh/litres -->
     </Gas>
   </GasProperties>
 </Definitions>
